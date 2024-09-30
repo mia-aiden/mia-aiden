@@ -1,4 +1,4 @@
-## Hi there 👋
+## UZH 2024 Fall AI Aiden👋
 
 <!--
 **mia-aiden/mia-aiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
